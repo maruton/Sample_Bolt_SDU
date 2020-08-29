@@ -1,0 +1,14 @@
+
+Bolt の SetupWizard で登録しているもの。
+
+-----
+■TextMesh Pro
+参考記事：https://note.com/maruton/n/n0c45d5d19b8e?magazine_key=mca678331a1f5]
+
+-----
+■SimpleAnimation
+Assembly Options
+	SimpleAnimationComponent
+Type Options
+	SimpleAnimation
+-----

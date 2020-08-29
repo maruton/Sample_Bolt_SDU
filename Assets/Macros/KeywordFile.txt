@@ -1,0 +1,11 @@
+とまる,STOP
+ストップ,STOP
+あるく,WALK
+ウォーク,WALK
+ウオーク,WALK
+はしる,RUN
+ラン,RUN
+とぶ,JUMP
+ジャンプ,JUMP
+カメラ,CAMERA
+
