@@ -1,8 +1,8 @@
 # Boltサンプル
 SD Unityちゃんを使用したサンプル。
 
-・SD Unityちゃんがアニメーションする
-・カメラが切り替えられる。
+・SD Unityちゃんがアニメーションする  
+・カメラが切り替えられる。  
 
 Unity2019.4.3f1  
 Windows専用。  
@@ -57,7 +57,6 @@ Please refer to the following link for information regarding the Unity-Chan Lice
 http://unity-chan.com/contents/guideline_en/
 
 
------  
 ## SimpleAnimation
 ### Download
 https://github.com/Unity-Technologies/SimpleAnimation  
