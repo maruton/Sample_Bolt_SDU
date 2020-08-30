@@ -51,7 +51,6 @@ Windows専用。
 ユニティちゃんライセンスについては、以下を参照してください。  
 http://unity-chan.com/contents/guideline/
 
-### 【License】
 Unity-Chan Toon Shader 2.0 is provided under the Unity-Chan License 2.0 terms.  
 Please refer to the following link for information regarding the Unity-Chan License.  
 http://unity-chan.com/contents/guideline_en/
@@ -64,6 +63,7 @@ https://github.com/Unity-Technologies/SimpleAnimation
 ### License
 MIT License
 詳細は付属のLICENSE ファイル(/Assets/SimpleAnimation/README.md)を参照。  
+See LICENSE file /Assets/SimpleAnimation/README.md.  
 
 
 
