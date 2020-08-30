@@ -11,7 +11,25 @@ Windows専用。
 基本的にBoltのノードで作成。  
 一部C#連携。  
 
+## 実行までの手順
 
+ダウンロード＆展開してUnityで開きます。
+※C#ソースでBoltが無い為エラーが出ます。
+
+Asset StoreからBoltをインポート。  
+この後のBoltのインストーラがエラーで起動しない為、以下の手順で手動でインストールします。  
+
+"/Assets/Insall Bolt" をみたいなエクスプローラで開く。  
+（Projectウィンドウ内の "/Assets/Insall Bolt" を右クリック > Show in explorerなどで）  
+Bolt_1_4_12_NET4.unitypackage をダブルクリック。    
+Import画面が出るのでOKでインポートします。  
+これでBoltがインストールされます。  
+
+/Assets/Scene/Main を開きます。  
+Playします。  
+  
+  
+  
 ## 操作方法
 キーボード操作でアニメーションとカメラ視点が切り替えられます。
 音声でも操作できます。
