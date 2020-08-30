@@ -19,7 +19,7 @@ Windows専用。
 Asset StoreからBoltをインポート。  
 この後のBoltのインストーラがエラーで起動しない為、以下の手順で手動でインストールします。  
 
-"/Assets/Insall Bolt" をみたいなエクスプローラで開く。  
+"/Assets/Insall Bolt" をエクスプローラで開く。  
 （Projectウィンドウ内の "/Assets/Insall Bolt" を右クリック > Show in explorerなどで）  
 Bolt_1_4_12_NET4.unitypackage をダブルクリック。    
 Import画面が出るのでOKでインポートします。  
